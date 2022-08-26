@@ -1,0 +1,17 @@
+{
+  "name": "rjnetwork-common",
+  "version": "0.0.1",
+  "description": "常用的js方法库",
+  "main": "index.js",
+  "scripts": {
+   "test": "mocha --reporter list"
+  },
+  "keywords": [
+    "common-js"
+  ],
+  "author": "huzhenjie",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
