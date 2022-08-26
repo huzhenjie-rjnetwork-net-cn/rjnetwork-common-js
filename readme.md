@@ -7,7 +7,7 @@
 仓库： [](https://github.com/huzhenjie-rjnetwork-net-cn/rjnetwork-common-js.git)
 分支：
 + develop  开发分支
-+ main   发布分支
++ master   发布分支
 + fix      修复分支
 
 
