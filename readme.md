@@ -37,10 +37,13 @@ import rjnetCommon from "rjnetwork-common"
   
 #### 技术探讨
  email: huzhenjie@rjnetwork.net.cn
- 微信公众号：苦逼程序猿
- 
- 
- 
+ 微信公众号：苦逼程序猿![公众号](https://www.rjnetwork.net.cn:91//upload/files/6359632ce4b0474dacf62d01.jpg)
+### 捐助
+![微信支付](https://www.rjnetwork.net.cn:91/upload/files/61aa52f4e4b08291bde91e98.png)
+
+
+
+
  
  
  

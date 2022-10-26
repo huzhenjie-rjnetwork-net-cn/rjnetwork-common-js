@@ -1,6 +1,6 @@
 const tree = {
 	author:"huzhenjie",
-	desc:"字符串常用方法封装",
+	desc:"树形方法封装",
 	email:"huzhenjie@rjnetwork.net.cn"
 	
 }
