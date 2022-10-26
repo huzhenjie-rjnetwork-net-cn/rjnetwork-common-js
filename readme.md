@@ -13,9 +13,9 @@
 
 ### 使用
 #### 安装
-npm install rjnetwork-common
+npm install rjnetwork-commons
 #### 引用
-import rjnetCommon from "rjnetwork-common"
+import rjnetCommon from "rjnetwork-commons"
 
 #### 具体类说明
  + rjnetCommon.rjStr   字符串处理类
