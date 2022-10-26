@@ -32,10 +32,12 @@ import rjnetCommon from "rjnetwork-common"
  + 
 ####  rjnetCommon.rjTree   方法说明
  +  rjnetCommon.rjTree.tree.deepQuery  递归查找树形结构中的某一个对象
+ +  rjnetCommon.rjTree.tree.getParentFields 根据树形结构查找当前元素的所有父元素包含它自己 
+ +  rjnetCommon.rjTree.tree.treeToList      将树形结构转换为list结构
   
 #### 技术探讨
  email: huzhenjie@rjnetwork.net.cn
- 微信公众号：企小猪
+ 微信公众号：苦逼程序猿
  
  
  
