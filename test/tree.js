@@ -8,5 +8,5 @@ var arr = [
 
 
 let list = rjnetworkCommon.rjTree.tree.getParentFields(arr,12,"id")
-console.log(list)
+//console.log(list)
 
