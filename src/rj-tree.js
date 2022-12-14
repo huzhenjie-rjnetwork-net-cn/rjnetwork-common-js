@@ -5,13 +5,13 @@ const tree = {
 	
 }
 /**
- * desc  根据某一个字段和字段值查找树形结构的对象
- * author huzhenjie
- * email  huzhenjie@rjnetwork.net.cn
- * param  tree  树形结构
- * param  value 字段值
- * param  filed 字段属性
- * return  obj 
+ * @desc  根据某一个字段和字段值查找树形结构的对象
+ * @author huzhenjie
+ * @email  huzhenjie@rjnetwork.net.cn
+ * @param  tree  树形结构
+ * @param  value 字段值
+ * @param  filed 字段属性
+ * @return  obj
  */
 tree.deepQuery=function(tree,value,filed){
 	  var isGet = false;
@@ -63,14 +63,14 @@ tree.getParentFields = function (tree,childrenValue,field){
 
 
 /**
- * desc   将树形结构拆分成list返回
- * author huzhenjie
- * email  huzhenjie@rjnetwork.net.cn
- * param  tree  树形结构
- * param  list  返回的list 数组类型
- * param  filed 根据哪个字段匹配
+ * @desc   将树形结构拆分成list返回
+ * @author huzhenjie
+ * @email  huzhenjie@rjnetwork.net.cn
+ * @param  tree  树形结构
+ * @param  list  返回的list 数组类型
+ * @param  filed 根据哪个字段匹配
  * @param fieldValue 字段值
- * return  list
+ * @return  list
  */
 tree.treeToList = function (tree,list,filed,fieldValue){
 	tree.filter((item)=>{
@@ -86,6 +86,8 @@ tree.treeToList = function (tree,list,filed,fieldValue){
 	})
 
 }
+
+
 
 
 module.exports = {
